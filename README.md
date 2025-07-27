@@ -21,7 +21,8 @@ It supports user registration/login, sweets management, purchase flow, inventory
   - [Frontend Testing](#frontend-testing)  
 - [Project Structure](#project-structure)  
 - [Development Workflow & Git Commits](#development-workflow--git-commits)  
-- [Future Improvements](#future-improvements)  
+- [Future Improvements](#future-improvements)
+- [AI USAGE](#ai-usage)  
 - [Acknowledgements](#acknowledgements)  
 
 ---
@@ -238,7 +239,16 @@ sweetshop/
 - Improve UI/UX polish and accessibility compliance
 
 ---
+---
+## AI USAGE:
 
+I used Perplexity AI and Chatgpt for completing this task
+
+Perplexity AI — for architecture brainstorming, code generation, debugging, documentation, and best practice advice.
+
+ChatGPT - Improving UI and basic fundamentals implementation.
+
+---
 ## Acknowledgements
 
 - Thanks to FastAPI, React, Material UI, Tailwind CSS, and the open-source community
