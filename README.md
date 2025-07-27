@@ -9,6 +9,7 @@ It supports user registration/login, sweets management, purchase flow, inventory
 ## Table of Contents
 
 - [Project Overview](#project-overview)  
+- [Screenshots](#screenshots)  
 - [Technologies Used](#technologies-used)  
 - [Features](#features)  
 - [Getting Started](#getting-started)  
@@ -30,7 +31,25 @@ It supports user registration/login, sweets management, purchase flow, inventory
 This application enables users to browse, search, purchase sweets from an inventory, and admins to manage sweets and users. It enforces role-based access with JWT-protected endpoints and offers a modern UI built with React, Material UI, and Tailwind CSS.
 
 ---
+---
+## Screenshots
+![Register](https://github.com/zeesh8x/swt-shp-ms/blob/main/screenshots-proj/register.png)
 
+![Login](https://github.com/zeesh8x/swt-shp-ms/blob/main/screenshots-proj/login.png)
+
+![Dashboard](https://github.com/zeesh8x/swt-shp-ms/blob/main/screenshots-proj/dashboard.png)
+
+![Admin Dashboard](https://github.com/zeesh8x/swt-shp-ms/blob/main/screenshots-proj/admin_dashboard.png)
+
+![Sweets Inventory](https://github.com/zeesh8x/swt-shp-ms/blob/main/screenshots-proj/sweets_inventory.png)
+
+![Searching Sweets](https://github.com/zeesh8x/swt-shp-ms/blob/main/screenshots-proj/searching_sweet.png)
+
+![User List](https://github.com/zeesh8x/swt-shp-ms/blob/main/screenshots-proj/users_list.png)
+
+
+
+---
 ## Technologies Used
 
 - **Backend:** FastAPI (Python), SQLAlchemy, SQLite, JWT Authentication  
@@ -150,7 +169,7 @@ npm test
 
 ---
 
-## 🗂 Folder Structure
+## 🗂 Project Structure
 
 ```
 sweetshop/
